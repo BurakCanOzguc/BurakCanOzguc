@@ -66,7 +66,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BurakCanOzguc/BurakCanOzguc/output/snake.svg" alt="Snake animation" />
+![Yılan animasyonu]( https://raw.githubusercontent.com/{BurakCanOzguc}/{BurakCanOzguc}/output/github-contribution-grid-snake-dark.svg )
 
 ###
 
