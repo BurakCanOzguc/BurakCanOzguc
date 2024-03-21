@@ -14,7 +14,7 @@
 
 ###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<p align="left">✨ Creating many project with flutter since 2023 ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...<br>📫 How can you contact me:  <a href="https://burakozguc@gmail.com">burakozguc@gmail.com</a>  </p>
+<p align="left">✨ Creating many project with flutter since 2023 ...<br>📚 I'm currently learning ...<br>🎯 I am open to project co-operation offers. ...<br>🎲 Fun fact: I love to play games and work on the computer ...<br>📫 How can you contact me:  <a href="https://burakozguc@gmail.com">burakozguc@gmail.com</a>  </p>
 
 
 
