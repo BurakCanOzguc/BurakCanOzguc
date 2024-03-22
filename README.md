@@ -1,4 +1,4 @@
-### Hi there 👋
+### Let's see who's here. 👀
 
 
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Hi,👋 I'm Burak. I am a mobile developer. I develop mobile applications with Flutter. I like to run new projects and follow and process innovations. I'm from Istanbul/Türkiye...</h2>
+<h2 align="left">Welcome,👋 I'm Burak. I am a mobile developer. I develop mobile applications with Flutter. I like to run new projects and follow and process innovations. I'm from Istanbul/Türkiye...</h2>
 
 ###
 
